@@ -1,7 +1,12 @@
-# Quick NeoVim
+# Quick Neovim
 
-Run temporary pre-configured NeoNim instance anywhere, quickly.
+Run a temporary pre-configured Neovim instance anywhere you need, quickly.
 
-## Notes
+`curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/murielsilveira/quick-nvim/main/install.sh | sh`
 
-`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+--
+
+References:
+
+- https://github.com/neovim/neovim/blob/master/INSTALL.md
+- https://github.com/nvim-lua/kickstart.nvim
